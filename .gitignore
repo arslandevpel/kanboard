@@ -6,7 +6,6 @@
 .project
 /.settings/
 .idea
-.vscode
 /nbproject/
 .DS_Store
 ehthumbs.db
@@ -27,3 +26,7 @@ data/config.php
 node_modules
 .phpunit.result.cache
 app/version.txt
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
